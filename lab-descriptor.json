@@ -92,8 +92,6 @@
   },
   "objective": "Configure the sensor using design parameters<br>Test sensor performance for different design parameters<br>Analyze the effects of design parameters on the sensor’s sensitivity and range<br>Application of the sensor for industrial parameter measurements",
   "courseAlignment": {
-    "description": "All institutes who offers a course in Mechanical Engineering, Instrumentation and Control Engineering, Electronics Engineering, Electrical Engineering and Industrial Engineering",
-    "universities": [
-    ]
+    "description": "All institutes who offers a course in Mechanical Engineering, Instrumentation and Control Engineering, Electronics Engineering, Electrical Engineering and Industrial Engineering"
   }
 }
